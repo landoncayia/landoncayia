@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hello - I'm Landon! I am a Christian first, a husband second, and a developer third.
 
-<!--
-**landoncayia/landoncayia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on building up my GitHub portfolio with projects, hoping to do some contracted work. I am also searching for a full-time software development position.
+- 🌱 I’m currently learning JavaScript, improving my web development skills, SwiftUI.
+- 🤔 I’m looking for help with learning how to make open source contributions.
+- 📫 How to reach me: landon.cayia@gmail.com
+- ⚡ Fun fact: I enjoy discussing personal finance and budgeting!
 
-Here are some ideas to get you started:
+Some of my favorite things:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📚 Reading (fiction and nonfiction)
+- 💻 Apple tech
+- 📱 Apps and games by indie/independent developers
+- 👟 Outdoor activities like walking, hiking, and cycling
+- 🎧 Listening to music and podcasts
