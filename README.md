@@ -1,7 +1,7 @@
 ### Hello - I'm Landon! I am a Christian first, a husband second, and a developer third.
 
-- 🔭 I’m currently working on building up my GitHub portfolio with projects, hoping to do some contracted work. I am also searching for a full-time software development position.
-- 🌱 I’m currently learning JavaScript, improving my web development skills, SwiftUI.
+- 🔭 I’m currently working on building up my GitHub portfolio with projects, hoping to do some contracted work. I am also searching for a full-time software development position, with a focus on iOS development.
+- 🌱 I’m currently learning Swift, SwiftUI, and JavaScript.
 - 🤔 I’m looking for help with learning how to make open source contributions.
 - 📫 How to reach me: landon.cayia@gmail.com
 - ⚡ Fun fact: I enjoy discussing personal finance and budgeting!
